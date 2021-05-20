@@ -58,7 +58,7 @@ The `keys` variable is declared which stores all the `.key` elements from DOM.
 
 The `forEach()` method executes the `removeTransition()` function for each `keys` element within an `addEventListener()` method with `'transitionend'` as an event type.
 
-The `playSound(event)` function is called within an `addEventListener()` method with `'keydown'` as an event type.
+Finally, the `playSound(event)` function is called within an `addEventListener()` method with `'keydown'` as an event type.
 
 ## Things I Have Learned
 
