@@ -1,6 +1,6 @@
 # JavaScript Drum Kit
 
-![screenshot](images/screenshot.jpg)
+![screenshot](screenshot.jpg)
 
 ## General Info
 
