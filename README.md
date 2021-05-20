@@ -65,7 +65,7 @@ The `playSound(event)` function is called within an `addEventListener()` method 
 | Syntax          | Description                                                                                         |
 | --------------- | --------------------------------------------------------------------------------------------------- |
 | data-\*         | A HTML attribute which stores custom data in HTML elements and can be referred to in the JavaScript |
-| <audio>         | A HTML element representing an Internet resource in the form of an audio file                       |
+| `<audio>`       | A HTML element representing an Internet resource in the form of an audio file                       |
 | Event           | An object containing information about the action that just happened in the browser                 |
 | event.key       | Returns the value of the key pressed by the user                                                    |
 | currentTime     | Sets or returns the current position (in seconds) of the audio/video playback                       |
